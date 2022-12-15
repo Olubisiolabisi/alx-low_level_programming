@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - print out sizes of data types in C
- * Return: 0
+ * main - print the size of data types in C
+ * Return: 0 if exited properly, no-zero otherwise
 */
 
 int main(void)
